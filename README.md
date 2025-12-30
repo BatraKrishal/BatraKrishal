@@ -99,7 +99,7 @@ Learning deeply, building honestly, and improving consistency over time.
 ---
 
 ## 📈 GitHub Stats
-[![Krishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/BatraKrishal)
+[![Krishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
