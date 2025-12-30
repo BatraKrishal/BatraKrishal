@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Krishal Batra
 
-![Profile Views](https://komarev.com/ghpvc/?username=KrishalBatra&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/KrishalBatra?label=Followers&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/KrishalBatra?label=Stars&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=BatraKrishal&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/BatraKrishal?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/BatraKrishal?label=Stars&style=flat)
 
 🚀 B.Tech CSE Student | Full-Stack Developer (MERN)  
 📍 India
@@ -97,7 +97,7 @@ Learning deeply, building honestly, and improving consistency over time.
 
 ## 📈 GitHub Stats
 
-![Krishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishalBatra&show_icons=true&theme=tokyonight)
+![Krishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal&show_icons=true&theme=tokyonight)
 
 ---
 
