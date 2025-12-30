@@ -4,10 +4,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/BatraKrishal?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/BatraKrishal?label=Stars&style=flat)
 
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishal%20Batra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishal-batra-b21ab9311/)
+
 🚀 B.Tech CSE Student | Full-Stack Developer (MERN)  
 📍 India
 
-I focus on **strong CS fundamentals and practical full-stack development**.  
+I focus on **strong computer science fundamentals and practical full-stack development**.  
 Learning deeply, building honestly, and improving consistency over time.
 
 ---
@@ -54,12 +57,12 @@ Learning deeply, building honestly, and improving consistency over time.
 ---
 
 ## 📚 Core Coursework
-![DSA](https://img.shields.io/badge/Data_Structures-Strong-blue)
-![C_Programming](https://img.shields.io/badge/C_Programming-Strong-success)
-![OOPs](https://img.shields.io/badge/Object_Oriented_Programming-Core-important)
-![Discrete_Maths](https://img.shields.io/badge/Discrete_Mathematics-Done-green)
-![Digital_Logic](https://img.shields.io/badge/Digital_Logic-Done-green)
-![Compiler_Design](https://img.shields.io/badge/Compiler_Design-Ongoing-yellow)
+- Data Structures & Algorithms  
+- C Programming  
+- Object-Oriented Programming  
+- Discrete Mathematics  
+- Digital Logic  
+- Compiler Design *(ongoing)*  
 
 ---
 
@@ -96,7 +99,6 @@ Learning deeply, building honestly, and improving consistency over time.
 ---
 
 ## 📈 GitHub Stats
-
 ![Krishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
