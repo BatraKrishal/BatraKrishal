@@ -1,114 +1,69 @@
-# 👋 Hi, I'm Krishal Batra
+# Hi, I'm Krishal Batra
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BatraKrishal&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/BatraKrishal?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/BatraKrishal?label=Stars&style=flat)
 
-🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishal%20Batra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishal-batra-b21ab9311/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishal%20Batra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krishalbatra/)
 
-🚀 B.Tech CSE Student | Full-Stack Developer (MERN)  
-📍 India
+B.Tech CSE student and full-stack developer building production-facing web apps with React, Next.js, Node.js, Express, MongoDB, FastAPI, and TypeScript.
 
-I focus on **strong computer science fundamentals and practical full-stack development**.  
-Learning deeply, building honestly, and improving consistency over time.
+I focus on practical software: authentication systems, event platforms, API-backed dashboards, ML-powered tools, and clean frontend experiences. Recent work includes a collaborative college event platform deployed on Vercel/Render and an AI agriculture recommendation system with a FastAPI ML backend.
 
----
+## What I Work On
 
-## 🧠 Current Focus
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Compiler Design  
-- MERN Stack Development  
-- Strengthening core fundamentals  
+- Full-stack web apps with React, Next.js, Node.js, Express, MongoDB, and TypeScript
+- Authentication flows with JWT, refresh tokens, protected routes, Google OAuth, cookies, and 2FA support
+- API integrations, dashboard-style UIs, event registration flows, and production deployments
+- ML-backed applications using Python, FastAPI, Pandas, scikit-learn, and LLM integrations
+- Core CS: Data Structures & Algorithms, OOP, DBMS, Digital Logic, Compiler Design, and Theory of Computation
 
----
+## Featured Projects
 
-## 🛠 Tech Stack
+### Spandan - College Tech Fest Platform
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+Live: [spandan.gbpiet.in](https://spandan.gbpiet.in)  
+Vercel: [spandan-neon-pulse.vercel.app](https://spandan-neon-pulse.vercel.app)  
+Frontend: [BatraKrishal/spandan-neon-pulse](https://github.com/BatraKrishal/spandan-neon-pulse)  
+Backend: [BatraKrishal/spandanBackend](https://github.com/BatraKrishal/spandanBackend)
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+A collaborative event platform for Spandan 2026 with event discovery, authentication, protected registration, participant data capture, and deployment-ready frontend/backend architecture.
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+- Built a Vite + React + TypeScript frontend with route-based pages for events, team, sponsors, login, signup, and event registration.
+- Implemented auth-aware client state with Zustand, Axios interceptors, protected routes, refresh flow, and Google OAuth callback handling.
+- Connected event registration forms to a Node.js/Express/MongoDB backend with participant models, validation, and Google Sheets export.
+- Worked in a collaborative GitHub/Vercel workflow with multiple contributors and repeated production deployments.
 
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### FarmForesight - AI Crop Recommendation System
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+Repo: [BatraKrishal/FarmForesight](https://github.com/BatraKrishal/FarmForesight)
 
----
+A full-stack agriculture decision-support app that combines soil inputs, weather data, ML crop prediction, irrigation guidance, sustainability advice, and a Gemini-powered assistant.
 
-## 📚 Core Coursework
-- Data Structures & Algorithms  
-- C Programming  
-- Object-Oriented Programming  
-- Discrete Mathematics  
-- Digital Logic  
-- Compiler Design *(ongoing)*  
+- Developed a FastAPI backend around a scikit-learn Random Forest model for crop recommendation and confidence scoring.
+- Added weather enrichment using Nominatim/Open-Meteo, regional filtering, irrigation recommendations, and water-savings estimates.
+- Integrated Gemini for natural-language recommendations and dataset analytics over crop data.
+- Built a Next.js + React + TypeScript frontend with recommendation cards, crop imagery, chatbot UI, and technical documentation.
 
----
+### More Work
 
-## 🚧 Projects (Under Development)
+- [AminoForge](https://github.com/BatraKrishal/AminoForge) - deployed data/AI project on Vercel.
+- [AuthenticationProject](https://github.com/BatraKrishal/AuthenticationProject) - MERN authentication workflow with JWT, bcrypt, cookies, protected routes, and OTP verification.
+- [QudraSecurityV2](https://github.com/BatraKrishal/QudraSecurityV2) - internship/client-facing frontend work with TypeScript and Vercel deployment.
 
-### 📘 Book Store Web App
-**Tech Stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB  
-**Scale & Capabilities:** Modular full-stack architecture, REST APIs, multi-user support  
-**Usage:** Browse and search books, manage cart, user authentication, order flow  
+## Tech Stack
 
----
+**Languages:** C, C++, Python, JavaScript, TypeScript  
+**Frontend:** React, Next.js, Vite, Tailwind CSS, shadcn/ui, Framer Motion  
+**Backend:** Node.js, Express.js, FastAPI, REST APIs  
+**Database:** MongoDB, Mongoose  
+**ML/Data:** Pandas, scikit-learn, Jupyter Notebook  
+**Tools:** Git, GitHub, Linux, Postman, Vercel, Render
 
-### 📁 Drive – Cloud Storage App
-**Tech Stack:** React, Node.js, MongoDB  
-**Scale & Capabilities:** Multi-user file management, hierarchical folder structure  
-**Usage:** Upload, organize, view, and delete files  
+## GitHub Stats
 
----
+[![Krishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤖 Multi-Subject Study Chatbot
-**Tech Stack:** JavaScript, Node.js  
-**Scale & Capabilities:** Domain-specific response handling, extensible subject architecture  
-**Usage:** Subject-focused learning assistance  
+## Current Direction
 
----
-
-## 🌱 Learning & Future Goals
-- Advanced TypeScript  
-- AVL Trees & advanced DSA  
-- Node.js internals (`fs` module deep dive)  
-- Software testing (Jest, Cypress)  
-- System-level design thinking  
-
----
-
-## 📈 GitHub Stats
-[![Krishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatraKrishal)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🧠 Philosophy
-> Progress over perfection.  
-> Fundamentals before frameworks.  
-> Build → Break → Learn → Repeat.
-
----
-
-⭐ Still learning. Still building. Still honest.
-
+I am looking for software development internship opportunities where I can contribute to full-stack products, work with experienced engineers, and keep building reliable software in collaborative teams.
